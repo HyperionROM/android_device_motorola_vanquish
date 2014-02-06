@@ -39,7 +39,7 @@ PRODUCT_COPY_FILES += \
 
 # Include 960x540 boot animation in the zip
 PRODUCT_COPY_FILES += \
-    vendor/gzr/prebuilt/common/bootanimation/540.zip:system/media/540.zip
+    vendor/hyperion/prebuilt/common/bootanimation/540.zip:system/media/540.zip
 
 
 # LTE, CDMA, GSM/WCDMA
