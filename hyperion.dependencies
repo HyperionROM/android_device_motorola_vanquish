@@ -15,7 +15,7 @@
     "branch": "vaosp"
   },
   {
-    "repository": "razrqcom-dev-team/proprietary_vendor_motorola",
+    "repository": "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
     "branch": "cm-11.0"
   },
